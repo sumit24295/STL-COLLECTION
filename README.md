@@ -1,8 +1,8 @@
 # STL-COLLECTION
 
-##C++
+## C++
 
-###STACK
+### STACK
   stack <int> st;
   
   push : A push_back call is made to the underlying container.
@@ -16,9 +16,9 @@
   
 
 
-##JAVA
+## JAVA
 
-###STACK
+### STACK
   Stack<data type> stack_name = new Stack<>();
   
   push() for inserting elements
